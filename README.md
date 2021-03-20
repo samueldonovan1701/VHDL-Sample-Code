@@ -1,6 +1,6 @@
 # VHDL-Sample-Code
 
-VHDL code I wrote for my Digital Systems (CENG 342) class at SDMines.
+VHDL code written by  Samantha Pfeiffer and Samuel Donovan for their Digital Systems (CENG 342) class at SDMines. None of it is copyrighted and anyone is free to take any code and do anything with it.
 
 Each Lab folder contains a report pdf that outlines in detail the lab.
 
