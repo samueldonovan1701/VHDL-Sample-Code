@@ -47,5 +47,4 @@ begin
       );
       
     eq <= s0 AND s1;
-    
 end sop;
